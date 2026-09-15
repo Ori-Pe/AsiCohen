@@ -1,6 +1,6 @@
 # AsiCohen
 
-A simple static digital business project.
+A simple static digital business project submitted by Ori Peretz.
 
 ## 🚀 How to Run
 
@@ -17,7 +17,6 @@ You can easily run this project locally using Python's built-in HTTP server. No 
    ```
    python -m http.server 8080
    ```
-   *(Note: On some systems, you might need to use `python3` instead of `python`)*
 
 3. **View the project:**
    Open your web browser and navigate to:
