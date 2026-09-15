@@ -1,6 +1,6 @@
 # AsiCohen
 
-A simple static web project.
+A simple static digital business project.
 
 ## 🚀 How to Run
 
