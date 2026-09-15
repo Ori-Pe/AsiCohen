@@ -8,7 +8,7 @@ You can easily run this project locally using Python's built-in HTTP server. No 
 
 1. **Clone the repository:**
    ```
-   git clone [https://github.com/Ori-Pe/AsiCohen.git](https://github.com/Ori-Pe/AsiCohen.git)
+   git clone https://github.com/Ori-Pe/AsiCohen.git
    cd AsiCohen
    ```
 
